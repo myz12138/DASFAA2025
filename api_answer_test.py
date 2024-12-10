@@ -1,7 +1,7 @@
 import json
 task='reachability'
 data_type='medium'
-model_name='gpt-3.5-turbo'#"claude-3-sonnet-20240229"#'gpt-4o'
+model_name="claude-3-sonnet-20240229"#'gpt-4o'
 data_file='1000_data'#'ablication_data'
 
 #reachability
